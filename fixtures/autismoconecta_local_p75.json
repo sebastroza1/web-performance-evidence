@@ -1,0 +1,37 @@
+{
+  "scope": "local_p75",
+  "source": "owner_provided",
+  "not_field_or_production_data": true,
+  "metrics": {
+    "DOMContentLoaded": {
+      "before": 3.77,
+      "after": 2.16,
+      "unit": "s"
+    },
+    "Load": {
+      "before": 4.27,
+      "after": 3.38,
+      "unit": "s"
+    },
+    "FCP": {
+      "before": 4.04,
+      "after": 2.41,
+      "unit": "s"
+    },
+    "LCP": {
+      "before": 4.04,
+      "after": 3.46,
+      "unit": "s"
+    },
+    "CLS": {
+      "before": 0.002,
+      "after": 0.062,
+      "unit": ""
+    },
+    "Initial transferred bundle": {
+      "before": 773.83,
+      "after": 507.85,
+      "unit": "kB"
+    }
+  }
+}

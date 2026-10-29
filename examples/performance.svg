@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 920 652">
+<title id="title">Local p75 web performance before and after comparison</title>
+<desc id="desc">Owner-provided local measurements. Cyan bars are before and green or amber bars are after.</desc>
+<rect width="100%" height="100%" fill="#07111f"/>
+<style>text{font-family:system-ui,sans-serif;fill:#dbeafe}.label{font-size:16px;font-weight:700}.value{font-size:13px;fill:#9fb3c8}.note{font-size:12px;fill:#8da3b8}</style>
+<text x="32" y="38" class="label">Local p75 performance evidence</text>
+<text x="32" y="62" class="note">Owner-provided local measurements — not production field data</text>
+<text x="32" y="118" class="label">DOMContentLoaded</text>
+<text x="32" y="141" class="value">+42.7% · improved</text>
+<rect x="330" y="98" width="470.0" height="24" rx="4" fill="#22d3ee" opacity="0.8"/>
+<rect x="330" y="132" width="269.3" height="24" rx="4" fill="#34d399"/>
+<text x="808.0" y="115" class="value">before 3.77 s</text>
+<text x="607.3" y="149" class="value">after 2.16 s</text>
+<text x="32" y="210" class="label">Load</text>
+<text x="32" y="233" class="value">+20.8% · improved</text>
+<rect x="330" y="190" width="470.0" height="24" rx="4" fill="#22d3ee" opacity="0.8"/>
+<rect x="330" y="224" width="372.0" height="24" rx="4" fill="#34d399"/>
+<text x="808.0" y="207" class="value">before 4.27 s</text>
+<text x="710.0" y="241" class="value">after 3.38 s</text>
+<text x="32" y="302" class="label">FCP</text>
+<text x="32" y="325" class="value">+40.3% · improved</text>
+<rect x="330" y="282" width="470.0" height="24" rx="4" fill="#22d3ee" opacity="0.8"/>
+<rect x="330" y="316" width="280.4" height="24" rx="4" fill="#34d399"/>
+<text x="808.0" y="299" class="value">before 4.04 s</text>
+<text x="618.4" y="333" class="value">after 2.41 s</text>
+<text x="32" y="394" class="label">LCP</text>
+<text x="32" y="417" class="value">+14.4% · improved</text>
+<rect x="330" y="374" width="470.0" height="24" rx="4" fill="#22d3ee" opacity="0.8"/>
+<rect x="330" y="408" width="402.5" height="24" rx="4" fill="#34d399"/>
+<text x="808.0" y="391" class="value">before 4.04 s</text>
+<text x="740.5" y="425" class="value">after 3.46 s</text>
+<text x="32" y="486" class="label">CLS</text>
+<text x="32" y="509" class="value">-3000.0% · regressed</text>
+<rect x="330" y="466" width="15.2" height="24" rx="4" fill="#22d3ee" opacity="0.8"/>
+<rect x="330" y="500" width="470.0" height="24" rx="4" fill="#f59e0b"/>
+<text x="353.2" y="483" class="value">before 0.002 </text>
+<text x="808.0" y="517" class="value">after 0.062 </text>
+<text x="32" y="578" class="label">Initial transferred bundle</text>
+<text x="32" y="601" class="value">+34.4% · improved</text>
+<rect x="330" y="558" width="470.0" height="24" rx="4" fill="#22d3ee" opacity="0.8"/>
+<rect x="330" y="592" width="308.5" height="24" rx="4" fill="#34d399"/>
+<text x="808.0" y="575" class="value">before 773.83 kB</text>
+<text x="646.5" y="609" class="value">after 507.85 kB</text>
+</svg>
